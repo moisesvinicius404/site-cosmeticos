@@ -8,7 +8,7 @@ Ele contém seções de apresentação, produtos e rodapé com ícones de redes 
 ## 📸 Captura de Tela do Projeto
 > Coloque aqui a imagem do seu site hospedada no GitHub ou um print direto.
 
-![Preview do site](coloque-aqui-o-link-da-imagem)
+![Preview do site](img-projeto.pnj)
 
 ---
 
